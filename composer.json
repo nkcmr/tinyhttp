@@ -1,0 +1,20 @@
+{
+  "name": "nkcmr/tinyhttp",
+  "description": "a tiny http utility",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nick comer",
+      "email": "nick@comer.io"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "tinyhttp\\": "src/"
+    }
+  }
+}
