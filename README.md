@@ -2,7 +2,7 @@
 
 a small http utility in php. i use this for a few scripts, its handy.
 
-```
+```php
 <?php
 
 use \tinyhttp\tinyhttp as http;
