@@ -11,3 +11,11 @@ $ip = http::get('https://icanhazip.com');
 var_dump($ip); // 0.0.0.0
 
 ```
+
+#### todo
+- [ ] gzip
+- [ ] deflate
+- [ ] HTTP DELETE
+- [ ] HTTP POST
+- [ ] HTTP HEAD
+- [ ] redirects
